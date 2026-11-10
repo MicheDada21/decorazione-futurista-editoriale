@@ -1,5 +1,5 @@
 ---
-name: abbellisci-editoria-tallone
+name: decorazione-futurista-editoriale
 description: "Estranges a page's form toward essential futurism at a 0 to 100 level, drawn from Marinetti's own manifestos, while every word stays legible. Use when the user asks to beautify, decorate or dare more with a page, to make it less generic or more futurist, or to brainstorm visual effects."
 ---
 
