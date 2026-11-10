@@ -1,6 +1,6 @@
 ---
 name: decorazione-futurista-editoriale
-description: "Estranges a page's form toward essential futurism at a 0 to 100 level, drawn from Marinetti's own manifestos, while every word stays legible. Use when the user asks to beautify, decorate or dare more with a page, to make it less generic or more futurist, or to brainstorm visual effects."
+description: "Estranges a page's form to a 0 to 100 level of essential futurism, drawn from Marinetti's manifestos, while every word stays legible. Use when a page looks generic or when brainstorming visual effects."
 ---
 
 # Estrange a page with essential futurism
